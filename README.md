@@ -18,4 +18,29 @@ hoặc liên hệ: http://m.me/huunam0 để tạo tk mới.
 (chưa có chức năng đăng kí)
 
 
+## Hướng dẫn cài đặt:
 
+
++ Một VPS rẻ (5$/ tháng là được rồi) cài Ubuntu (hoặc HĐH tương tự). 
+Ubuntu mặc định đã có python3 rồi.
+
++ Cài unzip và các trình biên dịch g++ , fpc .
+
++ Upload code lên 1 thư mục (chẳng hạn, /home/thnam/chambai )
+
++ Cài apache (hoặc webserver tương đương), trỏ root tới thư mục trên /home/thnam/chambai
+
++ Thêm cronjob chạy chamtudong.py mỗi phút 1 lần.
+
+## Hướng dẫn sử dụng:
+
++ Thêm user mới: chạy user.py user_name
+
++ Thêm bài tập
+
+Tạo thư mục bài tập:
+- Tên thư mục cũng là mã của bài toán
+- tệp chamthi.inf là file cấu hình của bài toán (xem ví dụ mẫu để biết)
+- tệp test*.inp và test*.out là các bộ test.
+
+Nép thư mục lại thành file zip và up lên thư mục baitoan (/home/thnam/chambai/baitoan)
