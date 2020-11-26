@@ -13,7 +13,7 @@ Vận hành thử tại http://test.thptccva.edu.vn
 
 Tài khoản thử nghiệm: guest, mk: thnam
 
-hoặc liên hệ: https://www.facebook.com/huunam0/ để tạo tk mới.
+hoặc liên hệ: http://m.me/huunam0 để tạo tk mới.
 
 (chưa có chức năng đăng kí)
 
