@@ -44,3 +44,6 @@ Ubuntu mặc định đã có python3 rồi.
     - tệp test*.inp và test*.out là các bộ test.
     
   +Nén thư mục lại thành file zip và up lên thư mục baitoan (/home/thnam/chambai/baitoan)
+  
+  
+  Nếu ai quan tâm cùng phát triển, hoàn thiện trình chấm này, vui lòng contact  http://m.me/huunam0
