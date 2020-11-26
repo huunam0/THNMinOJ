@@ -1,5 +1,7 @@
 # Trình chấm bài online mini THNMinOJ
 
+## Giới thiệu sơ lược
+
 Mục đích: 
 Giúp HS tự luyện giống các trang như ntucoder,...
 
@@ -7,15 +9,13 @@ Giúp HS tự luyện giống các trang như ntucoder,...
 
 GV chỉ cần up file zip chứa các test lên là có bài tập mới.
 
-Còn nhiều chức năng chưa code 
+Vận hành tại http://test.thptccva.edu.vn
 
-Vận hành thử tại http://test.thptccva.edu.vn
-
-Tài khoản thử nghiệm: guest, mk: thnam
+Tài khoản cho ai muốn thử nghiệm: guest, mk: thnam
 
 hoặc liên hệ: http://m.me/huunam0 để tạo tk mới.
 
-(chưa có chức năng đăng kí)
+(chưa có chức năng đăng kí, còn nhiều chức năng nâng cao chưa code kịp)
 
 
 ## Hướng dẫn cài đặt:
@@ -38,9 +38,8 @@ Ubuntu mặc định đã có python3 rồi.
 
 + Thêm bài tập
 
-Tạo thư mục bài tập:
-- Tên thư mục cũng là mã của bài toán
-- tệp chamthi.inf là file cấu hình của bài toán (xem ví dụ mẫu để biết)
-- tệp test*.inp và test*.out là các bộ test.
-
-Nép thư mục lại thành file zip và up lên thư mục baitoan (/home/thnam/chambai/baitoan)
+  +Tạo thư mục bài tập:
+    - Tên thư mục cũng là mã của bài toán
+    - tệp chamthi.inf là file cấu hình của bài toán (xem ví dụ mẫu để biết)
+    - tệp test*.inp và test*.out là các bộ test.
+  +Nén thư mục lại thành file zip và up lên thư mục baitoan (/home/thnam/chambai/baitoan)
