@@ -42,4 +42,5 @@ Ubuntu mặc định đã có python3 rồi.
     - Tên thư mục cũng là mã của bài toán
     - tệp chamthi.inf là file cấu hình của bài toán (xem ví dụ mẫu để biết)
     - tệp test*.inp và test*.out là các bộ test.
+    
   +Nén thư mục lại thành file zip và up lên thư mục baitoan (/home/thnam/chambai/baitoan)
